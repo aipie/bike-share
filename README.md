@@ -1,7 +1,8 @@
 # Project Background
 Cyclistic is a bike-share company based in Chicago, with over 5,800 bicycles and 600 docking stations. Most cyclistic users are likely to ride for leisure, but 30% use the bikes to commute to work each day. Cyclistic has concluded that while flexible pricing attracts more customers, annual members are more profitable. This project analyses trip data to uncover patterns between casual riders and members that can be used to increase membership conversion among casual riders. 
 
-## Insights and recommendations are provided on the following key areas:
+Insights and recommendations are provided on the following key areas:
+
 1. Comparative Trip Frequency and Usage Intensity: Direct comparison of trip frequency, trip duration, and trip distance between casual and member riders
 2. Temporal Usage Analysis: Comparing time-based usage patterns, including peak hours, days of the week, and seasonal trends.
 3. Spacial Usage Analysis: Analysing and comparing station usage, popular routes, and destinations between casual and member riders.
