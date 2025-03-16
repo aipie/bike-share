@@ -15,13 +15,23 @@ Targed SQL queries regarding various business questions can be found here [link]
 
 
 # Data Structure & Initial Checks
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+I analysed one year's worth of trip data - spanning between November 2023 and October 2024. 
 
-Table 2:
-Table 3:
-Table 4:
-Table 5:
-[Entity Relationship Diagram here]
+The dataset, made available by Motivate International Inc, comprised 5933712 columns and 13 columns, containing the following information:
+
+- **ride_id:** unique identifier for logged rides
+- **rideable_bike:** type of bike (classic, electric、electric scooters)
+- **started_at:** the date and time in which the ride started (M/d/yyyy hh:mm)
+- **ended_at:** the date and time in which the ride ended (M/d/yyyy hh:mm)
+- **start_station_name:** the station name where the ride started
+- **start_station_id:** the id for the start station
+- **end_station_name:** the station name where the ride ended
+- **end_station_id:** the id for the end station
+- **start_lat:** the latitude of the starting station
+- **start_lng:** the longitude of the starting station
+- **end_lat:** the latitude of the ending station
+- **end_lng:** the longitude of the ending station
+- **member_casual:** the type of rider (member, casual)
 
 # Executive Summary
 ### Overview of Findings
