@@ -3,10 +3,12 @@ Cyclistic is a bike-share company based in Chicago, with over 5,800 bicycles and
 
 Insights and recommendations are provided on the following key areas:
 
-1. **Comparative Trip Frequency and Usage Intensity:** Direct comparison of trip frequency, trip duration, and trip distance between casual and member riders
-2. **Temporal Usage Analysis:** Comparing time-based usage patterns, including peak hours, days of the week, and seasonal trends.
-3. **Spacial Usage Analysis:** Analysing and comparing station usage, popular routes, and destinations between casual and member riders.
-4. **Usage Pattern Variations:** Examining the notable differences between casual and member usage patterns and inferring potential triggers for membership conversion.
+- **Comparative Trip Frequency and Usage Intensity:** Direct comparison of trip frequency, trip duration, and trip distance between casual and member riders
+Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
+
+- **Temporal Usage Analysis:** Comparing time-based usage patterns, including peak hours, days of the week, and seasonal trends.
+- **Spacial Usage Analysis:** Analysing and comparing station usage, popular routes, and destinations between casual and member riders.
+- **Usage Pattern Variations:** Examining the notable differences between casual and member usage patterns and inferring potential triggers for membership conversion.
 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
