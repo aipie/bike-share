@@ -102,6 +102,8 @@ Among members, the top stations are concentrated near major transit hubs, busine
 
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
+![Top stations for members](MembersvVStartStation.png)
+
 
 ### Category 4:
 
