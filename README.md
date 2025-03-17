@@ -81,14 +81,15 @@ To better understand the differences in ride durations between casual and member
 * **Casual riders favoured weekend rides.**
 Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members were riding more consistenly throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes. 
 
-* **Both casual riders and members favoured Summer and Autumn** Summer is the most popular season for casual riders (43.11%) and members (30.26%), and Autumn was the second most popular for both groups of riders (30.45% for casual riders, and 30.26% for members). The least popular season for both riders was winter. Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
+* **Both casual and member riders showed similar seasonal usage patterns** Summer is the most popular season for casual riders (43.11%) and members (30.26%), and Autumn was the second most popular for both groups of riders (30.45% for casual riders, and 30.26% for members). The least popular season for both riders was winter. Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
   
 [Visualization specific to category 2]
 
 
 ### Spacial Usage Analysis:
 
-* **Casual riders are frequently riding more around tourist destinations** Casual riders, in contrast, tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, near Millennium Park, Navy Pier, and Adler Planetarium, are among the most utilized. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+* **Casual riders are frequently riding more around tourist destinations** Casual riders tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+* 
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
