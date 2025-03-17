@@ -101,7 +101,7 @@ Results show that ride distribution is spread out, with no single station accoun
 Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as Kingsbury & Kenzie St, Clinton St & Washington Bld/ Madison St / Jackson Blvd, rank among the most popular stations. These are in Chicago’s central business district, The Loop. Other areas that members seem to be frequenting include: Willis Tower, The West Loop, and River North. These areas are home to many businesses including Google Chicago and Linkedin. This suggests that members frequently use the service for commuting needs and other routine travel needs. Among the top most travelled stations for members, 
 
 
-![Alt text describing the image](bikeshare/CasualRidersvsStartStation.png)
+![Top stations for casual riders](CasualRidersvsStartStation.png)
 
 ### Category 4:
 
