@@ -81,22 +81,25 @@ To better understand the differences in ride durations between casual and member
 * **Casual riders favoured weekend rides.**
 Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members were riding more consistenly throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes. 
 
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Both casual riders and members favoured Summer and Autumn** Summer is the most popular season for casual riders (43.11%) and members (30.26%), and Autumn was the second most popular for both groups of riders (30.45% for casual riders, and 30.26% for members). The least popular season for both riders was winter. Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Spacial Usage Analysis:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Casual riders are frequently riding more around tourist destinations** Casual riders, in contrast, tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, near Millennium Park, Navy Pier, and Adler Planetarium, are among the most utilized. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Results show that ride distribution is spread out, with no single station accounting for a dominant share of rides. For both members and casual riders, the most frequently used stations each represent less than 3% of total rides. However, distinct trends emerge when comparing station preferences between these two groups.
+Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as Kingsbury & Kenzie St, Clinton St & Washington Bld/ Madison St / Jackson Blvd, rank among the most popular stations. These are in Chicago’s central business district, The Loop. Other areas that members seem to be frequenting include: Willis Tower, The West Loop, and River North. These areas are home to many businesses including Google Chicago and Linkedin. This suggests that members frequently use the service for commuting needs and other routine travel needs. Among the top most travelled stations for members, 
+
+
 
 [Visualization specific to category 3]
 
