@@ -33,6 +33,15 @@ The dataset, made available by Motivate International Inc, comprised 5933712 col
 - **end_lng:** the longitude of the ending station
 - **member_casual:** the type of rider (member, casual)
 
+The raw data, provided as monthly CSV files, was initially processed in Microsoft Excel to engineer key features. Specifically, I added a 'day_of_week' column for temporal analysis and calculated 'trip_duration' in seconds by subtracting the 'start_time' from the 'end_time'. These monthly files were then combined into a single dataset using Google BigQuery's UNION ALL. 
+
+To ensure the accuracy of ride duration analysis, outliers were identified and addressed. Specifically:
+Negative or Zero Durations: Rides with negative or zero durations were removed. From the original table, this resulted in over 117,287 rides, which is about 1.97% of the rides. 
+
+Following data cleaning, several new features added in SQL BigQuery 
+A ‘distance_km’ column was added using the Haversine formula
+
+
 # Executive Summary
 ### Overview of Findings
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
@@ -41,19 +50,19 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 # Insights Deep Dive
 **Comparative Trip Frequency and Usage Intensity:**
-* **casual riders are taking less trips than memberss** 
+* **Members are taking more rides than casual riders** 
 
 Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
 
+* **Electric bikes were the most popular for both members and casual riders** 
+The three types of bicycles available are: Classic, and electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides taken by members and 1.04 million by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides, compared to 81,468 rides taken by casual riders.
 
 * **Casual riders were taking longer rides than members** 
 
-Ride duration data was highly skewed, with a notable presence of rides with extreme durations. Because of this, I used the median to describe typical ride lengths. This analysis showed that casual riders had a median ride duration of 12.6 minutes, compared to 8.97 minutes. Casual riders had a bigger difference between their median and average duration than members. This could suggest that casual riders are taking longer and more leisurely rides, whereas members could be using the service for commuting purposes. 
+Ride duration data was highly skewed, with a notable presence of rides with extreme durations. Because of this, I used the median to describe typical ride lengths. This analysis showed that casual riders had a median ride duration of 12.43 minutes, compared to 9 minutes. Casual riders had a bigger difference between their median and average duration than members. This could suggest that casual riders are taking longer and more leisurely rides, whereas members could be using the service for commuting purposes. 
 
 To better understand the differences in ride durations between casual and member riders, I categorised the data into the following duration bins: 1-10 minutes, 11-20 minutes, 21-30 minutes, 31-40 minutes and over 41 minutes. Analysis showed a significant difference between casual riders and member riders. A large proportion of member rides fell between 1-10 minutes (61.77%) and 11-20 minutes (26.62%). Casual riders, while still having a significant portion of short rides, show a more diverse range of ride durations. A larger proportion of casual riders fall in the longer duration bins than members, especially for rides over 20 minutes. 32.21% of casual rides compared to 13.98% of members. 
 
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
@@ -61,7 +70,7 @@ To better understand the differences in ride durations between casual and member
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Temporal Usage Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
