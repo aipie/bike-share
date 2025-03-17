@@ -58,7 +58,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
 
-* **Electric bikes were the most popular for both members and casual riders** 
+* **Electric bikes were the most popular for both members and casual riders**
+  
 The three types of bicycles available are: Classic, and electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides taken by members and 1.04 million by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides, compared to 81,468 rides taken by casual riders.
 
 * **Casual riders were taking longer rides than members** 
