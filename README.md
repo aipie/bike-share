@@ -68,7 +68,6 @@ Ride duration data was highly skewed, with a notable presence of rides with extr
 
 To better understand the differences in ride durations between casual and member riders, I categorised the data into the following duration bins: 1-10 minutes, 11-20 minutes, 21-30 minutes, 31-40 minutes and over 41 minutes. Analysis showed a significant difference between casual riders and member riders. A large proportion of member rides fell between 1-10 minutes (61.77%) and 11-20 minutes (26.62%). Casual riders, while still having a significant portion of short rides, show a more diverse range of ride durations. A larger proportion of casual riders fall in the longer duration bins than members, especially for rides over 20 minutes. 32.21% of casual rides compared to 13.98% of members. 
 
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
@@ -88,17 +87,19 @@ Saturdays and Sundays saw the most casual rider trips, further reinforcing the i
 
 ### Spacial Usage Analysis:
 
-* **Casual riders are frequently riding more around tourist destinations** Casual riders tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
-* 
+* **Casual riders are frequently riding more around tourist destinations** Results from analysing start station data show that ride distribution is spread out, with no single station accounting for a dominant share of rides. For both members and casual riders, the most frequently used stations each represent less than 3% of total rides. However, distinct trends emerge when comparing station preferences between these two groups.
+
+It was seen that casual riders tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Members rides are concentrated near major transit hubs, business districts, and residential areas.** Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central busines district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Many members are also riding close to universities.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-Results show that ride distribution is spread out, with no single station accounting for a dominant share of rides. For both members and casual riders, the most frequently used stations each represent less than 3% of total rides. However, distinct trends emerge when comparing station preferences between these two groups.
-Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as Kingsbury & Kenzie St, Clinton St & Washington Bld/ Madison St / Jackson Blvd, rank among the most popular stations. These are in Chicago’s central business district, The Loop. Other areas that members seem to be frequenting include: Willis Tower, The West Loop, and River North. These areas are home to many businesses including Google Chicago and Linkedin. This suggests that members frequently use the service for commuting needs and other routine travel needs. Among the top most travelled stations for members, 
+
+
 
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
