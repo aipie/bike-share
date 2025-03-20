@@ -73,6 +73,7 @@ To better understand the differences in ride durations between casual and member
 
 
 ### Temporal Usage Analysis:
+
 * The afternoon (3-5 PM) time bin was the most popular for both members and casual riders, with 989,829 rides by members and 556,759 by casual riders. The Morning Rush (6-9 AM) also saw a significant number of rides by members with 729,831 rides clocked. This is over three times higher than casual riders at 230, 235 rides. 
   
 * **Casual riders favoured weekend rides.**
