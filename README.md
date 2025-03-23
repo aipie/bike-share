@@ -79,6 +79,8 @@ To better understand the differences in ride durations between casual and member
 * **Casual riders favoured weekend rides.**
 Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members rode more consistently throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes.
 
+![Weekend Rides](DayofWeek.png)
+
 * July to September, the peak summer months, saw the highest number of rides, while the winter months (December to February) had the lowest usage. Casual riders were most active in summer, accounting for 43.11% of their rides, while members also favoured summer but to a lesser extent (30.26%). Autumn was the second most popular season for both groups, with 30.45% of casual rides and 33.86% of member rides. While winter was the least popular season for both types of riders, a higher proportion of members were still riding in winter than casual riders.  
 
 * While casual riders showed a strong seasonal preference, members' ride distribution was more balanced across summer, autumn, and spring, indicating more consistent year-round usage"
