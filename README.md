@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targeted SQL queries regarding various business questions can be found here [link].
 
 
 # Data Structure & Initial Checks
@@ -39,7 +39,7 @@ The raw data, provided as monthly CSV files, was initially processed in Microsof
 To ensure the accuracy of ride duration analysis, outliers were identified and addressed. Specifically:
 - **Negative or Zero Durations**: Rides with negative or zero durations were removed. From the original table, this resulted in over 117,287 rides, which is about 1.97% of the rides.
 - 
-Following data cleaning, several new features added in SQL BigQuery
+Following data cleaning, several new features were added in SQL BigQuery
 
 - **Ride length:** To facilitate analysis of ride durations, a new feature, 'ride_length_minutes', was engineered from the existing 'ride_length' column. The 'ride_length' column was originally stored as a string in HH:MM:SS (hours, minutes, seconds) format. To convert these durations into minutes, the following SQL query was executed: A ‘ride_duration_minutes’ was created by taking the ‘ride_length’ column. This was done by a SQL query converting the 'ride_length' column, initially in HH:MM:SS format, to minutes. It split the string by colons, extracted hours, minutes, and seconds, then calculated minutes as (hours * 60) + minutes + (seconds / 60), creating the 'ride_length_minutes' column for numerical analysis.
 - **A ‘distance_km’**: column was added using the Haversine formula
@@ -77,10 +77,14 @@ To better understand the differences in ride durations between casual and member
 * The afternoon (3-5 PM) time bin was the most popular for both members and casual riders, with 989,829 rides by members and 556,759 by casual riders. The Morning Rush (6-9 AM) also saw a significant number of rides by members with 729,831 rides clocked. This is over three times higher than casual riders at 230, 235 rides. 
   
 * **Casual riders favoured weekend rides.**
-Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members were riding more consistenly throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes. 
+Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members rode more consistently throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes.
 
-* **Both casual and member riders showed similar seasonal usage patterns** Summer is the most popular season for casual riders (43.11%) and members (30.26%), and Autumn was the second most popular for both groups of riders (30.45% for casual riders, and 30.26% for members). The least popular season for both riders was winter. Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
+* July to September, the peak summer months, saw the highest number of rides, while the winter months (December to February) had the lowest usage. Casual riders were most active in summer, accounting for 43.11% of their rides, while members also favoured summer but to a lesser extent (30.26%). Autumn was the second most popular season for both groups, with 30.45% of casual rides and 33.86% of member rides. While winter was the least popular season for both types of riders, a higher proportion of members were still riding in winter than casual riders.  
+
+* While casual riders showed a strong seasonal preference, members' ride distribution was more balanced across summer, autumn, and spring, indicating more consistent year-round usage"
   
+* Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
+
 [Visualization specific to category 2]
 
 
@@ -90,11 +94,11 @@ Results from analysing start station data show that ride distribution is spread 
 * **Casual riders are frequently riding more around tourist destinations** It was seen that casual riders tend to favor stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
 
   
-* **Members rides are concentrated near major transit hubs, business districts, and residential areas.** Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central busines district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
+* **Members rides are concentrated near major transit hubs, business districts, and residential areas.** Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central business district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
   
-* **Many members are also riding close to universities.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Many members are also riding close to universities.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
 
 
 
@@ -102,6 +106,7 @@ Results from analysing start station data show that ride distribution is spread 
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
 ![Top stations for members](MembersvVStartStation.png)
+
 
 
 ### Category 4:
