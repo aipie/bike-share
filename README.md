@@ -63,11 +63,12 @@ To better understand the differences in ride durations between casual and member
 
   
 * **Casual Riders have seen faster growth with larger fluctuations.**
-* 
+  
 It can be observed that casual riders have experienced a cumulative growth of **208.29%**, reflecting significant growth over time. In contrast, members achieved a cumulative growth of **76.59%**, which shows a slower growth trajectory.
   
-* Casual riders experienced significant declines in December 2023 (-47.47%), January 2024 (-52.86%), and October 2024 (-37.08%). In contrast, while members also saw a drop in rides during the same months (-34.72% in December, -30.57% in January, and -15.24% in October), their declines were less pronounced than those of casual riders.
+* Casual riders exhibited much more volatility in comparison to members when it came to **month-to-month growth**
 
+There is larger volatility in the growth rate, as seen with very high growth in February (+93.69%) and severe negative growth in October (-37.08%). These extremes indicate that casual riders are more sensitive to certain factors, like weather, which can lead to larger variations in monthly ridership. In contrast, while members also saw a drop in rides during the same months (-34.72% in December, -30.57% in January, and -15.24% in October), their declines were less pronounced than those of casual riders. Members saw a strong rebound in February (+47.28%), which could be a reflection of improved weather that encouraged more rides. From August to October 2024, there was growth but slower and then we saw a decline again in October of **-15.24%**. This could further point to seasonal factors that impact membership growth and ridership. 
 
 ![Month-to-Month Growth Analysis](Month-to-MonthCumulativeGrowth.png)
 
