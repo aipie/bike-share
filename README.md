@@ -55,10 +55,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
 
-* **Electric bikes were the most popular for both members and casual riders**
-  
-The three types of bicycles available are: Classic, and electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides taken by members and 1.04 million by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides, compared to 81,468 rides taken by casual riders.
-
 * **Casual riders were taking longer rides than members** 
 
 Ride duration data was highly skewed, with a notable presence of rides with extreme durations. Because of this, I used the median to describe typical ride lengths. This analysis showed that casual riders had a median ride duration of 12.43 minutes, compared to 9 minutes. Casual riders had a bigger difference between their median and average duration than members. This could suggest that casual riders are taking longer and more leisurely rides, whereas members could be using the service for commuting purposes. 
@@ -92,9 +88,11 @@ Saturdays and Sundays saw the most casual rider trips, further reinforcing the i
 ### Spacial Usage Analysis:
 Results from analysing start station data show that ride distribution is spread out, with no single station accounting for a dominant share of rides. For both members and casual riders, the most frequently used stations each represent less than 3% of total rides. However, distinct trends emerge when comparing station preferences between these two groups.
 
-* **Casual riders are frequently riding more around tourist destinations** It was seen that casual riders tend to favour stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting. The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+* **Casual riders are frequently riding more around tourist destinations** It was seen that casual riders tend to favour stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St, Michigan Ave & Oak St, DuSable Lake Shore Dr & North Blvd, and Millennium Park, are among the most utilized. Streeter Dr & Grand Ave accounted for 17.9% of rides for casual riders. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting.
 
-  
+*** The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+**
+
 * **Members rides are concentrated near major transit hubs, business districts, and residential areas.** Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of these places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central business district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
   
 * **Many members are also riding close to universities.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
@@ -102,15 +100,24 @@ Results from analysing start station data show that ride distribution is spread 
 * **Main insight 4.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
 
 
-
-
-
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
 ![Top stations for members](MembersvVStartStation.png)
 
 
 
-### Category 4:
+### Ride Type & Context
+
+Ride Type & Context (How do trip characteristics differ between casual and member riders?)
+
+Differences in the type of bike used (if applicable, e.g., classic vs. e-bike).
+
+Are casual rides more likely to be one-way vs. round trips?
+
+Are casual trips more dispersed, while member trips are more structured (e.g., more similar start/end locations per trip)?
+
+* **Electric bikes were the most popular for both members and casual riders**
+  
+* The three types of bicycles available are: Classic, electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides taken by members and 1.04 million by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides, compared to 81,468 rides taken by casual riders.
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
