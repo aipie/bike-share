@@ -47,6 +47,12 @@ Following data cleaning, several new features were added in SQL BigQuery
 ### Overview of Findings
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
+Casual riders tend to take longer rides but ride less frequently, especially on classic bikes, suggesting recreational use. 
+Casual riders use bikes more on weekends and in tourist-heavy areas.
+Members take more rides, and their rides are shorter, structured, and commuter-focused.
+The afternoon is the most popular riding time for casual riders and members, but morning rush hour is also significant for members.
+
+
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
@@ -136,6 +142,10 @@ Are casual trips more dispersed, while member trips are more structured (e.g., m
 
 ## Recommendations:
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+
+Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.
+
+Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
 
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
