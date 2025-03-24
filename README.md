@@ -50,9 +50,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
-**Comparative Trip Frequency and Usage Intensity:**
+**Trip Frequency & Duration**
 * **Members are taking more rides than casual riders** 
-
 Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
 
 * **Casual riders were taking longer rides than members** 
