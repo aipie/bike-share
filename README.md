@@ -62,7 +62,10 @@ Ride duration data was highly skewed, with a notable presence of rides with extr
 To better understand the differences in ride durations between casual and member riders, I categorised the data into the following duration bins: 1-10 minutes, 11-20 minutes, 21-30 minutes, 31-40 minutes and over 41 minutes. Analysis showed a significant difference between casual riders and member riders. A large proportion of member rides fell between 1-10 minutes (61.77%) and 11-20 minutes (26.62%). Casual riders, while still having a significant portion of short rides, show a more diverse range of ride durations. A larger proportion of casual riders fall in the longer duration bins than members, especially for rides over 20 minutes. 32.21% of casual rides compared to 13.98% of members. 
 
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* It can be observed that casual riders have experienced a cumulative growth of **208.29%**, reflecting significant growth over time. In contrast, members achieved a cumulative growth of **76.59%**, which shows a slower growth trajectory.
+  
+* Casual riders experienced significant declines in December 2023 (-47.47%), January 2024 (-52.86%), and October 2024 (-37.08%). In contrast, while members also saw a drop in rides during the same months (-34.72% in December, -30.57% in January, and -15.24% in October), their declines were less pronounced than those of casual riders.
+
 
 ![Month-to-Month Growth Analysis](Month-to-MonthCumulativeGrowth.png)
 
