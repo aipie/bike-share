@@ -64,8 +64,7 @@ To better understand the differences in ride durations between casual and member
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 1]
-
+[!Month-to-Month Growth Analysis](Month-to-MonthCumulativeGrowth.png)
 
 ### Temporal Usage Analysis:
 
