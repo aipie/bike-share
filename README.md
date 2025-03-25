@@ -91,7 +91,7 @@ Saturdays and Sundays saw the most casual rider trips, further reinforcing the i
 
 * While casual riders showed a strong seasonal preference, members' ride distribution was more balanced across summer, autumn, and spring, indicating more consistent year-round usage"
   
-* Casual riders were riding for longer in summer with a median duration of 13.88 minutes, and further with a median distance of 1.75 km. 
+* Casual riders were riding for longer in summer with a median duration of **13.88 minutes**, and further with a median distance of** 1.75 km**. 
 
 ![Month Analysis](CasualandMembervsMonth.png)
 
