@@ -47,10 +47,10 @@ Following data cleaning, several new features were added in SQL BigQuery
 ### Overview of Findings
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
-Casual riders tend to take longer rides but ride less frequently, especially on classic bikes, suggesting recreational use. 
+Casual riders took longer rides but rode less frequently, especially on classic bikes, suggesting recreational use. 
 Casual riders use bikes more on weekends and in tourist-heavy areas.
-Members take more rides, and their rides are shorter, structured, and commuter-focused.
-The afternoon is the most popular riding time for casual riders and members, but morning rush hour is also significant for members.
+Members took more rides, which were shorter, structured, and commuter-focused.
+The afternoon is the most popular riding time for casual riders and members, but the morning rush hour is also significant for members.
 
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
@@ -77,6 +77,7 @@ It can be observed that casual riders have experienced a cumulative growth of **
 There is larger volatility in the growth rate, as seen with very high growth in February 2024 **(+93.69%)** and severe negative growth in October 2024 **(-37.08%)**. These extremes indicate that casual riders are more sensitive to certain factors, like weather, which can lead to larger variations in monthly ridership. In contrast, while members also saw a drop in rides during the same months (**-34.72%** in December 2023, **-30.57%** in January 2024, and **-15.24%** in October 2024), their declines were less pronounced than those of casual riders. Members saw a strong rebound in February** (+47.28%)**, which could be a reflection of improved weather that encouraged more rides. From August to October 2024, there was growth but slower and then we saw a decline again in October of **-15.24%**. This could further point to seasonal factors that impact membership growth and ridership. 
 
 ![Month-to-Month Growth Analysis](GrowthRate.png)
+![Cumulative Growth](Month-to-MonthCumulativeGrowth.png)
 
 ### Temporal Usage Analysis:
 
