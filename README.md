@@ -143,7 +143,18 @@ Are casual trips more dispersed, while member trips are more structured (e.g., m
 ## Recommendations:
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
+* **TOP STATIONS FOR CASUAL RIDERS;**
+_Local Partnerships & Cross-Promotions 🤝
+Collaborating with gyms, coffee shops, or coworking spaces to offer bundled discounts.
+Example: “Show your ride receipt at [Local Café] and get 10% off your coffee!”_
+
+*  Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth.
+
+A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members.
 Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.
+_- Limited-Time Seasonal Promotions 
+Offering discounted multi-ride passes or membership trials during low-ridership months (e.g., winter discounts or commuter perks).
+Example: “Winter Ride Challenge: Complete 10 rides in December and get 1 month of free membership!”_
 
 Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
 
@@ -151,12 +162,7 @@ Reinforce Successful Strategies: The periods of high growth in February, March, 
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+
 
 
 # Assumptions and Caveats:
