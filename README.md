@@ -102,15 +102,17 @@ Results from analysing start station data show that ride distribution is spread 
 
 * **Casual riders are frequently riding more around tourist destinations** It was seen that casual riders tend to favour stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St/ North Blvd, Michigan Ave & Oak St, and Millennium Park, are among the most utilized. These areas are near well-known landmarks or popular spots, such as Navy Pier, Grant Park, The Magnificent Mile, and Millennium Park. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting.
 
-*** The longer median durations at these stations suggest rides are for recreational purposes as opposed to short commutes.
+*** The longer median durations at the most popular stations suggest rides are for recreational purposes as opposed to short commutes.
+Many of the top stations for casual riders have longer median durations.This suggest that casual rides are primarily for recreational purposes rather than short commutes. Many of these stations are located near Chicago’s major attractions, waterfront areas, and parks, such as Millennium Park **(24.00 min)**, the Shedd Aquarium **(22.12 min)**, and the Adler Planetarium **(24.43 min)**. 
+Notably, stations along DuSable Lake Shore Drive, including Monroe St (24.57 min) and North Blvd (19.18 min), also exhibit extended ride durations, reinforcing the trend of recreational riding. Compared to high-traffic commuter stations, such as Kingsbury St & Kinzie St (8.67 min) and Wells St & Elm St (9.18 min), which are popular for members. These differences highlight how location influences riding behavior.
+
+Among the top 20 stations visited for casual riders, two of them overlap with the top two stations for members. The median duration at these stations is shorter than the other stations. This could suggest that a portion of casual riders are also using this service for commuting purposes. 
+( More casual riders are starting at: Michigan Ave & 8th St than riders starting elsewhere and ending their riders here. The majority of the rides starting at Michigan Ave & 8th St also end up finishing here. 
 **
 
 * **Members rides are concentrated near major transit hubs, business districts, and residential areas.** Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of these places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central business district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
   
-* **Many members are also riding close to universities.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
-
+* **Many members are also riding close to universities.** Among the top stations visited by members, Clinton St & Jackson Blvd, Morgan St & Polk St, and University Ave & 57th St are near universities such as The University of Chicago and University of Illinois Chicago. The popularity of these stations further reinforces the idea that members primarily commuting.
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
 ![Top stations for members](MembersvVStartStation.png)
