@@ -100,7 +100,9 @@ Saturdays and Sundays saw the most casual rider trips, further reinforcing the i
 ### Spacial Usage Analysis:
 Results from analysing start station data show that ride distribution is spread out, with no single station accounting for a dominant share of rides. For both members and casual riders, the most frequently used stations each represent less than 3% of total rides. However, distinct trends emerge when comparing station preferences between these two groups.
 
-* **Casual riders are frequently riding more around tourist destinations** It was seen that casual riders tend to favour stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St/ North Blvd, Michigan Ave & Oak St, and Millennium Park, are among the most utilized. These areas are near well-known landmarks or popular spots, such as Navy Pier, Grant Park, The Magnificent Mile, and Millennium Park. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting.
+* **Casual riders are frequently riding more around tourist destinations**
+
+It was seen that casual riders tend to favour stations near tourist destinations, cultural sites, and recreational areas. Locations such as Streeter Dr & Grand Ave, DuSable Lake Shore & Monroe St/ North Blvd, Michigan Ave & Oak St, and Millennium Park, are among the most utilized. These areas are near well-known landmarks or popular spots, such as Navy Pier, Grant Park, The Magnificent Mile, and Millennium Park. This supports the idea that casual users are more likely to use the service for recreational purposes or social outings rather than daily commuting.
 
 * **The longer median durations at the most popular stations suggest rides are for recreational purposes as opposed to short commutes**
 
