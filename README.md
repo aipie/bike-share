@@ -117,7 +117,7 @@ Among members, the top stations are concentrated near major transit hubs, busine
   
 * **Many members are also riding close to universities.**
 
-Among the top stations visited by members, Clinton St & Jackson Blvd, Morgan St & Polk St, and University Ave & 57th St are near universities such as The University of Chicago and University of Illinois Chicago. The popularity of these stations further reinforces the idea that members primarily commuting.
+Among the top stations visited by members, Clinton St & Jackson Blvd, Morgan St & Polk St, and University Ave & 57th St are near universities such as The University of Chicago and University of Illinois Chicago. The popularity of these stations further reinforces the idea that members are primarily commuting.
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
 ![Top stations for members](MembersvVStartStation.png)
@@ -126,15 +126,15 @@ Among the top stations visited by members, Clinton St & Jackson Blvd, Morgan St 
 
 ### Ride Type & Context
 
-Ride Type & Context (How do trip characteristics differ between casual and member riders?)
-
-Differences in the type of bike used (if applicable, e.g., classic vs. e-bike).
-
-Are casual rides more likely to be one-way vs. round trips?
-
-Are casual trips more dispersed, while member trips are more structured (e.g., more similar start/end locations per trip)?
+_Ride Type & Context (How do trip characteristics differ between casual and member riders?)_
+_Differences in the type of bike used (if applicable, e.g., classic vs. e-bike)._
+_Are casual rides more likely to be one-way vs. round trips?_
+_Are casual trips more dispersed, while member trips are more structured (e.g., more similar start/end locations per trip)?_
 
 * **Electric bikes were the most popular for both members and casual riders**. The three types of bicycles available are: Classic, electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides taken by members and 1.04 million by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides, compared to 81,468 rides taken by casual riders.
+
+***Casual riders frequently take loop rides, often returning to the same station**. At Streeter Dr & Grand Ave, 16.8% of rides start and end at the same location, while at DuSable Lake Shore Dr & Monroe St, this rises to 20%. Many of these stations are near major tourist destinations, such as Navy Pier and Oak Street Beach, suggesting that casual riders are primarily using the bikes for sightseeing or leisure rather than commuting. In contrast, members overwhelmingly take one-way trips, indicating a stronger focus on transportation rather than recreation.
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -154,30 +154,22 @@ _Local Partnerships & Cross-Promotions 🤝
 Collaborating with gyms, coffee shops, or coworking spaces to offer bundled discounts.
 Example: “Show your ride receipt at [Local Café] and get 10% off your coffee!”_
 
-*  Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth.
+* **Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.** Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth. A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members.
 
-A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members.
-Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.
+*
 _- Limited-Time Seasonal Promotions 
 Offering discounted multi-ride passes or membership trials during low-ridership months (e.g., winter discounts or commuter perks).
 Example: “Winter Ride Challenge: Complete 10 rides in December and get 1 month of free membership!”_
 
-Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
-
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-
-
+  Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
 
 # Assumptions and Caveats:
 
-Null Values in Station Data: Some data on the start and end stations were missing (nulls). This could affect the analysis of the most popular stations and routes. While this limitation does not drastically alter the main findings, the absence of these data points may slightly skew the results, particularly in identifying optimal areas for membership conversion.
+* Null Values in Station Data: Some data on the start and end stations were missing (nulls). This could affect the analysis of the most popular stations and routes. While this limitation does not drastically alter the main findings, the absence of these data points may slightly skew the results, particularly in identifying optimal areas for membership conversion.
 
-Generalization of Usage Patterns: We assume that the trip behavior patterns for casual and member riders are broadly representative of typical usage. However, due to the lack of individual-level data, these patterns are inferred from aggregated data and may not fully capture all the nuances of rider behavior.
+* Generalization of Usage Patterns: We assume that the trip behavior patterns for casual and member riders are broadly representative of typical usage. However, due to the lack of individual-level data, these patterns are inferred from aggregated data and may not fully capture all the nuances of rider behavior.
 
-Temporal Data Gaps: Some temporal data may be incomplete due to missing timestamps or edge cases in the data collection process. This was accounted for, but stakeholders should note that unusual spikes in activity or non-standard patterns may not be fully explained.
+* Temporal Data Gaps: Some temporal data may be incomplete due to missing timestamps or edge cases in the data collection process. This was accounted for, but stakeholders should note that unusual spikes in activity or non-standard patterns may not be fully explained.
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
