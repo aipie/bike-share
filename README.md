@@ -57,20 +57,14 @@ The afternoon is the most popular riding time for casual riders and members, but
 
 # Insights Deep Dive
 **Trip Frequency & Duration**
-* **Members are taking more rides than casual riders**
-  
-Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
+* **Members are taking more rides than casual riders.** Overall, members account for the majority of rides, making up **63.7%** of total trips, while casual riders contribute **36.3%**. Casual riders, though making up a smaller proportion, still represent a significant share of trips, suggesting strong demand from occasional users, tourists, or those without memberships. This breakdown will help spot user patterns, adjust bike availability, and develop ways to better convert casual riders into members. 
 
-* **Casual riders were taking longer rides than members**
-  
-Ride duration data was highly skewed, with a notable presence of rides with extreme durations. Because of this, I used the median to describe typical ride lengths. This analysis showed that casual riders had a median ride duration of 12.43 minutes, compared to 9 minutes. Casual riders had a bigger difference between their median and average duration than members. This could suggest that casual riders are taking longer and more leisurely rides, whereas members could be using the service for commuting purposes. 
+* **Casual riders were taking longer rides than members.** Ride duration data was highly skewed, with a notable presence of rides with extreme durations. Because of this, I used the median to describe typical ride lengths. This analysis showed that casual riders had a median ride duration of 12.43 minutes, compared to 9 minutes. Casual riders had a bigger difference between their median and average duration than members. This could suggest that casual riders are taking longer and more leisurely rides, whereas members could be using the service for commuting purposes. 
 
 To better understand the differences in ride durations between casual and member riders, I categorised the data into the following duration bins: 1-10 minutes, 11-20 minutes, 21-30 minutes, 31-40 minutes and over 41 minutes. Analysis showed a significant difference between casual riders and member riders. A large proportion of member rides fell between 1-10 minutes (61.77%) and 11-20 minutes (26.62%). Casual riders, while still having a significant portion of short rides, show a more diverse range of ride durations. A larger proportion of casual riders fall in the longer duration bins than members, especially for rides over 20 minutes. 32.21% of casual rides compared to 13.98% of members. 
 
   
-* **Casual Riders have seen faster growth with larger fluctuations.**
-  
-It can be observed that casual riders have experienced a cumulative growth of **208.29%**, reflecting significant growth over time. In contrast, members achieved a cumulative growth of **76.59%**, which shows a slower growth trajectory.
+* **Casual Riders have seen faster growth with larger fluctuations.** It can be observed that casual riders have experienced a cumulative growth of **208.29%**, reflecting significant growth over time. In contrast, members achieved a cumulative growth of **76.59%**, which shows a slower growth trajectory.
   
 * Casual riders exhibited much more volatility in comparison to members when it came to **month-to-month growth**
 
