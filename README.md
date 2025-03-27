@@ -1,5 +1,5 @@
 # Project Background
-Cyclistic is a bike-share company based in Chicago, with over 5,800 bicycles and 600 docking stations. Most cyclistic users are likely to ride for leisure, but 30% use the bikes to commute to work each day. Cyclistic has concluded that while flexible pricing attracts more customers, annual members are more profitable. This project analyses trip data to uncover patterns between casual riders and members that can be used to increase membership conversion among casual riders. 
+Cyclistic is a bike-share company based in Chicago, with over 5,800 bicycles and 600 docking stations. The current pricing plan includes single-ride passes, full-day passes, and annual memberships. Riders who purchase single-ride or full-day passes are considered casual riders, and riders who purchase the annual membership are Cyclistic members.  Most cyclistic users are likely to ride for leisure, but 30% use the bikes to commute to work each day. Cyclistic has concluded that while flexible pricing attracts more customers, annual members are more profitable. This project analyses trip data to uncover patterns between casual riders and members that can be used to increase membership conversion among casual riders. 
 
 Insights and recommendations are provided on the following key areas:
 
@@ -147,9 +147,9 @@ _Are casual trips more dispersed, while member trips are more structured (e.g., 
 [Visualization specific to category 4]
 
 ## Recommendations:
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the team to consider the following: 
 
-* **TOP STATIONS FOR CASUAL RIDERS;**
+* **TOP STATIONS FOR CASUAL RIDERS**
 _Local Partnerships & Cross-Promotions 🤝
 Collaborating with gyms, coffee shops, or coworking spaces to offer bundled discounts.
 Example: “Show your ride receipt at [Local Café] and get 10% off your coffee!”_
@@ -170,6 +170,9 @@ Example: “Winter Ride Challenge: Complete 10 rides in December and get 1 month
 * Generalization of Usage Patterns: We assume that the trip behavior patterns for casual and member riders are broadly representative of typical usage. However, due to the lack of individual-level data, these patterns are inferred from aggregated data and may not fully capture all the nuances of rider behavior.
 
 * Temporal Data Gaps: Some temporal data may be incomplete due to missing timestamps or edge cases in the data collection process. This was accounted for, but stakeholders should note that unusual spikes in activity or non-standard patterns may not be fully explained.
+
+  1,400 rides had recorded durations exceeding 1,000 minutes. While these are likely due to forgotten trip endings, system errors, or other anomalies, they account for a very small proportion of total rides. Because of this, they were not removed from the dataset. However, to minimize their impact on ride duration analysis, median duration was used instead of the mean. 
+
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
