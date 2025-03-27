@@ -133,7 +133,7 @@ _Are casual trips more dispersed, while member trips are more structured (e.g., 
 
 * **Electric bikes were the most popular for both members and casual riders**. The three types of bicycles available are: Classic, electric bikes, and electric scooters. Electric bikes were the most popular for members and casual riders, with 1.84 million rides **(49.05%)** taken by members and 1.04 million **(48.21%) **by casual riders. Classic bikes were also widely used, with 1.8 million rides by members and 982,930 by casual riders. Interestingly, electric scooters were much less popular, particularly among members, with only 56,145 rides **(1.49%)**, compared to 81,468 **(3.75%)** rides taken by casual riders. 
 
-***Casual riders frequently take loop rides, often returning to the same station**. At Streeter Dr & Grand Ave, 16.8% of rides start and end at the same location, while at DuSable Lake Shore Dr & Monroe St, this rises to 20%. Many of these stations are near major tourist destinations, such as Navy Pier and Oak Street Beach, suggesting that casual riders are primarily using the bikes for sightseeing or leisure rather than commuting. In contrast, members overwhelmingly take one-way trips, indicating a stronger focus on transportation rather than recreation.
+* **Casual riders frequently take loop rides, often returning to the same station**. At Streeter Dr & Grand Ave, 16.8% of rides start and end at the same location, while at DuSable Lake Shore Dr & Monroe St, this rises to 20%. Many of these stations are near major tourist destinations, such as Navy Pier and Oak Street Beach, suggesting that casual riders are primarily using the bikes for sightseeing or leisure rather than commuting. In contrast, members overwhelmingly take one-way trips, indicating a stronger focus on transportation rather than recreation.
 
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
@@ -147,21 +147,24 @@ _Are casual trips more dispersed, while member trips are more structured (e.g., 
 [Visualization specific to category 4]
 
 ## Recommendations:
-Based on the insights and findings above, we would recommend the team to consider the following: 
+Based on the insights and findings above, the following recommendations have been provided: 
 
-* **TOP STATIONS FOR CASUAL RIDERS**
-_Local Partnerships & Cross-Promotions 🤝
-Collaborating with gyms, coffee shops, or coworking spaces to offer bundled discounts.
-Example: “Show your ride receipt at [Local Café] and get 10% off your coffee!”_
+* Many casual riders take recreational trips from stations near tourist attractions, with a significant portion choosing loop rides. Introducing shorter-term membership options, such as a 7-day pass and a monthly pass, could encourage more frequent ridership. The 7-day pass would cater to tourists and short-term visitors. The monthly pass would serve as a stepping stone for frequent casual riders, allowing them to experience membership benefits without committing to an annual plan. Both options have the potential to attract more tourists and short-term visitors while providing a pathway for casual riders to transition into full membership.
+
+* Since many casual riders use Cyclistic bikes for recreational purposes near key landmarks, a  partnership with local attractions could increase engagement and encourage membership.*
 
 * **Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.** Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth. A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members.
 
-*
-_- Limited-Time Seasonal Promotions 
+*_- Limited-Time Seasonal Promotions 
 Offering discounted multi-ride passes or membership trials during low-ridership months (e.g., winter discounts or commuter perks).
 Example: “Winter Ride Challenge: Complete 10 rides in December and get 1 month of free membership!”_
 
-  Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
+* Look to capitalise on the periods of high-growth, by 
+
+Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
+
+
+  * _Re-evaluate the placement of some docking stations. Many stations had very small numbers of rides. _
 
 # Assumptions and Caveats:
 
