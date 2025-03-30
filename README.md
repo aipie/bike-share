@@ -83,15 +83,13 @@ There is larger volatility in the growth rate, as seen with very high growth in 
 
 * The afternoon (3-5 PM) time bin was the most popular for both members and casual riders, with 989,829 rides by members and 556,759 by casual riders. The Morning Rush (6-9 AM) also saw a significant number of rides by members with 729,831 rides clocked. This is over three times higher than casual riders at 230, 235 rides. 
   
-* **Casual riders favoured weekend rides.**
-  
-Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members rode more consistently throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes.
+* **Casual riders favoured weekend rides.** Saturdays and Sundays saw the most casual rider trips, further reinforcing the idea their trips are more for leisurely purposes, as opposed to work-related. Both electric and classic bikes were equally popular. Weekend ridership among members was lower, suggesting their rides were more work-related than recreational. Members rode more consistently throughout the week, whereas casual riders peaked during weekends, particularly on Saturdays. As for ride duration, for members and casual riders, the longest rides occurred on weekends using classic bikes.
 
 ![Weekend Rides](DayofWeek.png)
 
 * July to September, the peak summer months, saw the highest number of rides, while the winter months (December to February) had the lowest usage. Casual riders were most active in summer, accounting for 43.11% of their rides, while members also favoured summer but to a lesser extent (30.26%). Autumn was the second most popular season for both groups, with 30.45% of casual rides and 33.86% of member rides. While winter was the least popular season for both types of riders, a higher proportion of members were still riding in winter than casual riders.  
 
-* While casual riders showed a strong seasonal preference, members' ride distribution was more balanced across summer, autumn, and spring, indicating more consistent year-round usage"
+* While casual riders showed a strong seasonal preference, members' ride distribution was more balanced across summer, autumn, and spring, indicating more consistent year-round usage. 
   
 * Casual riders were riding for longer in summer with a median duration of **13.88 minutes**, and further with a median distance of** 1.75 km**. 
 
@@ -157,19 +155,23 @@ Based on the insights and findings above, the following recommendations have bee
 
 * Many casual riders take recreational trips from stations near tourist attractions, with a significant portion choosing loop rides. Introducing shorter-term membership options, such as a 7-day pass and a monthly pass, could encourage more frequent ridership. The 7-day pass would cater to tourists and short-term visitors. The monthly pass would serve as a stepping stone for frequent casual riders, allowing them to experience membership benefits without committing to an annual plan. Both options have the potential to attract more tourists and short-term visitors while providing a pathway for casual riders to transition into full membership.
 
-* Since many casual riders use Cyclistic bikes for recreational purposes near key landmarks, a  partnership with local attractions could increase engagement and encourage membership.*
+* Since many casual riders use Cyclistic bikes for recreational purposes near key landmarks, a  partnership with local attractions or businesses such as gyms, and coffee shops could increase engagement and encourage membership.*
 
-* **Increased Marketing Efforts in Negative Growth Periods: The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.** Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth. A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members.
+* **The months where growth dropped significantly (December and October) could be targeted for special promotions, re-engagement offers, or referral programs to counteract negative growth.** Rather than scaling back marketing efforts during these downturns, research suggests that companies that continue investing in strategic marketing during economic slowdowns achieve stronger long-term growth. A study by McKinsey & Company found that businesses that maintained or increased their marketing efforts during downturns achieved a 17% compounded growth rate. Applying this principle to ridership trends, targeted marketing campaigns during these off-peak months could mitigate losses and potentially convert casual riders into members. A few campaigns that could be done include:
+  * Offering limited-time membership discounts such as multi-ride passes or membership trials in colder months to encourage more sign-ups. 
+  * Gamify the experience to encourage membership conversion by introducing challenges such as _Winter Ride Challenge:_ Complete X rides in Winter and get 1 month free of membership.
+  * To re-engage casual riders who haven’t taken a trip in a while, targeted incentives such as discounted ride bundles or bonus credits toward membership can encourage them to return. For example, a "$5 off your next ride" offer could encourage to take another ride, while a referral program—where riders earn some kind of reward if their friend signs up—can drive both engagement and conversions.
 
-* Since the peak season for casual riders is the summer time, a seasonal marketing campaign that _(seasonal promotions high ROI examples summer)_
-_- Limited-Time Seasonal Promotions 
-Offering discounted multi-ride passes or membership trials during low-ridership months (e.g., winter discounts or commuter perks).
-Example: “Winter Ride Challenge: Complete 10 rides in December and get 1 month of free membership!”_
+* Since casual riders are taking longer trips than members, introducing a ride challenge where casual riders who log X number of rides over 20 minutes within a set period unlock a special perk (e.g., a free week of membership).
+
+* Since casual riders are riding more on weekends, weekend exclusive deals such as "Ride Saturday, Get Sunday 50% off" or weekend-challenges such as 'Ride X miles and earn a reward' can boost ridership and potential membership conversion. On top of these, partnership with local cafes or attractions to offer discounts to riders can also boost their enjoyment of the services and convince more riders to convert to members.
+
+* Since the peak season for casual riders is the summer-time, a seasonal marketing campaign that emphasizes convenience, cost savings, and exclusive perks could boost drive engagement and membership conversions. Such examples could include discounted summer ride bundles, membership trial extensions, or ride challenges with rewards. Furthermore, partnering with local festivals and events could also encourage more membership sign-ups.
+
+*For casual riders there was particularly high growth in February, March, and May. This cold be due to a combination of weather, events, and tourism. Targeting these high-growth rate months with specific campaigns could maximise growth during these peak months. One such way would be to tap into the celebrate of "Bike Month" in May with local partnerships or riding challenging.
 
 Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
 
-
-  * _Re-evaluate the placement of some docking stations. Many stations had very small numbers of rides. _
 
 # Assumptions and Caveats:
 
