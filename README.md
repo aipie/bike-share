@@ -8,11 +8,6 @@ Insights and recommendations are provided on the following key areas:
 - **Spatial Usage & Route Preferences** Where do casual vs. member riders go? Analysing and comparing station usage, popular routes, and destinations between casual and member riders
 - **Ride Type & Contex**t How do trip characteristics differ between casual and member riders? The differences between bikes used, are there more one-way vs round trips? 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targeted SQL queries regarding various business questions can be found here [link].
-
-
 # Data Structure & Initial Checks
 I analysed one year's worth of trip data - spanning between November 2023 and October 2024. 
 
@@ -111,7 +106,6 @@ Among the top stations visited by members, Clinton St & Jackson Blvd, Morgan St 
 
 ![Top stations for casual riders](CasualRidersvsStartStation.png)
 ![Top stations for members](MembersvVStartStation.png)
-
 
 
 ### Ride Type & Context
