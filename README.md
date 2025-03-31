@@ -38,6 +38,11 @@ Following data cleaning, several new features were added in SQL BigQuery
 - **Ride length:** To facilitate analysis of ride durations, a new feature, 'ride_length_minutes', was engineered from the existing 'ride_length' column. The 'ride_length' column was originally stored as a string in HH:MM:SS (hours, minutes, seconds) format. To convert these durations into minutes, the following SQL query was executed: A ‘ride_duration_minutes’ was created by taking the ‘ride_length’ column. This was done by a SQL query converting the 'ride_length' column, initially in HH:MM:SS format, to minutes. It split the string by colons, extracted hours, minutes, and seconds, then calculated minutes as (hours * 60) + minutes + (seconds / 60), creating the 'ride_length_minutes' column for numerical analysis.
 - **A ‘distance_km’**: column was added using the Haversine formula
 
+
+The SQL queries used to inspect and clean the data for this analysis can be found here [SQL-Queries](/SQL-Queries.sql)
+
+
+
 # Executive Summary
 ### Overview of Findings
 Casual riders exhibited more volatility in growth compared to members, with sharp declines in winter (-47.47% in December, -52.86% in January) and strong rebounds in spring and summer (+93.69% in February, +77.21% in May). Their longer but less frequent rides suggest recreational use, especially in tourist-heavy areas on weekends. Members, on the other hand, took shorter, more frequent trips, primarily for commuting, with peak usage during morning and afternoon rush hours. These results suggest that marketing should focus on seasonal promotions for casual riders, while strengthening commuter-focused incentives for members.
