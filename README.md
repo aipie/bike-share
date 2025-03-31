@@ -45,15 +45,7 @@ Following data cleaning, several new features were added in SQL BigQuery
 
 # Executive Summary
 ### Overview of Findings
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
-
-Casual riders took longer rides but rode less frequently, especially on classic bikes, suggesting recreational use. 
-Casual riders use bikes more on weekends and in tourist-heavy areas.
-Members took more rides, which were shorter, structured, and commuter-focused.
-The afternoon is the most popular riding time for casual riders and members, but the morning rush hour is also significant for members.
-
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+Casual riders exhibited more volatility in growth compared to members, with sharp declines in winter (-47.47% in December, -52.86% in January) and strong rebounds in spring and summer (+93.69% in February, +77.21% in May). Their longer but less frequent rides suggest recreational use, especially in tourist-heavy areas on weekends. Members, on the other hand, took shorter, more frequent trips, primarily for commuting, with peak usage during morning and afternoon rush hours. These results suggest that marketing should focus on seasonal promotions for casual riders, while strengthening commuter-focused incentives for members.
 
 # Insights Deep Dive
 **Trip Frequency & Duration**
@@ -109,8 +101,6 @@ It was seen that casual riders tend to favour stations near tourist destinations
   
 Many of the top stations for casual riders have longer median durations.This suggest that casual rides are primarily for recreational purposes rather than short commutes. Many of these stations are located near Chicago’s major attractions, waterfront areas, and parks, such as Millennium Park **(24.00 min)**, the Shedd Aquarium **(22.12 min)**, and the Adler Planetarium **(24.43 min)**. Notably, stations along DuSable Lake Shore Drive, including Monroe St (24.57 min) and North Blvd (19.18 min), also exhibit extended ride durations, reinforcing the trend of recreational riding. Compared to high-traffic commuter stations, such as Kingsbury St & Kinzie St (8.67 min) and Wells St & Elm St (9.18 min), which are popular for members. These differences highlight how location influences riding behavior.
 
-
-
 * **Members rides are concentrated near major transit hubs, business districts, and residential areas.**
   
 Among members, the top stations are concentrated near major transit hubs, business districts, and residential areas with strong commuting activity. Stations such as **Kingsbury & Kenzie St**, **Clinton St & Washington Bld**/ **Madison St** / **Jackson Blvd**, rank among the most popular stations. The areas that members seem to be frequenting include: Willis Tower, The West Loop, River North, and The Loop. Many of these places are a combination of businesses, tourism, entertainment and nightlife. The Loop is considered Chicago's central business district (CBD). The West Loop is a former industrial area transformed into a trendy neighbourhood full of restaurants, art galleries, and nightlife. The West Loop is also considered a transit hub, with **Union Station** and **Oglivie Transportation Center**. This makes it an ideal location for work and commuting. 
@@ -139,17 +129,6 @@ The three types of bicycles available are: Classic, electric bikes, and electric
   
 At Streeter Dr & Grand Ave, 16.8% of rides start and end at the same location, while at DuSable Lake Shore Dr & Monroe St, this rises to 20%. Many of these stations are near major tourist destinations, such as Navy Pier and Oak Street Beach, suggesting that casual riders are primarily using the bikes for sightseeing or leisure rather than commuting. In contrast, members overwhelmingly take one-way trips, indicating a stronger focus on transportation rather than recreation.
 
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
 ## Recommendations:
 Based on the insights and findings above, the following recommendations have been provided: 
 
@@ -168,9 +147,7 @@ Based on the insights and findings above, the following recommendations have bee
 
 * Since the peak season for casual riders is the summer-time, a seasonal marketing campaign that emphasizes convenience, cost savings, and exclusive perks could boost drive engagement and membership conversions. Such examples could include discounted summer ride bundles, membership trial extensions, or ride challenges with rewards. Furthermore, partnering with local festivals and events could also encourage more membership sign-ups.
 
-*For casual riders there was particularly high growth in February, March, and May. This cold be due to a combination of weather, events, and tourism. Targeting these high-growth rate months with specific campaigns could maximise growth during these peak months. One such way would be to tap into the celebrate of "Bike Month" in May with local partnerships or riding challenging.
-
-Reinforce Successful Strategies: The periods of high growth in February, March, and May could provide insights into which marketing strategies worked well, allowing you to replicate these efforts during similar months in the future.
+*For casual riders there was particularly high growth in February, March, and May. This cold be due to a combination of weather, events, and tourism. Targeting these high-growth rate months with specific campaigns could maximise growth during these peak months. One such way would be to tap into the celebration of "Bike Month" in May with local partnerships or riding challenges.
 
 
 # Assumptions and Caveats:
@@ -186,8 +163,4 @@ Reinforce Successful Strategies: The periods of high growth in February, March, 
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Rides with negative or zero durations were removed. From the original table, this resulted in over 117,287 rides, which is about 1.97% of the rides. 
