@@ -30,4 +30,16 @@ FROM
   `nimble-volt-436804-j6.bike_share.combined_final_table`
 GROUP BY 
   member_casual 
+
+-- Calculating median and average durations and distances for members and casual riders 
+SELECT
+  member_casual, COUNT(*) AS ride_count, 
+ APPROX_QUANTILES(ride_length_minutes_1, 2)[OFFSET(1)] AS median_duration,  -- 50th percentile (median)
+ AVG(ride_length_minutes_1) AS average_duration, 
+ APPROX_QUANTILES(distance_km, 2)[OFFSET(1)] AS median_distance,  -- 50th percentile (median)
+ AVG(distance_km) AS average_distance
+FROM `nimble-volt-436804-j6.bike_share.combined_final_table`
+GROUP BY
+`member_casual
+
   
