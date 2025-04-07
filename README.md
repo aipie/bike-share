@@ -59,17 +59,11 @@ Ride duration data was highly skewed, with a notable presence of rides with extr
 
 To better understand the differences in ride durations between casual and member riders, I categorised the data into the following duration bins: 1-10 minutes, 11-20 minutes, 21-30 minutes, 31-40 minutes and over 41 minutes. Analysis showed a significant difference between casual riders and member riders. A large proportion of member rides fell between 1-10 minutes (61.77%) and 11-20 minutes (26.62%). Casual riders, while still having a significant portion of short rides, show a more diverse range of ride durations. A larger proportion of casual riders fall in the longer duration bins than members, especially for rides over 20 minutes. 32.21% of casual rides compared to 13.98% of members. 
 
-  
-* **Casual Riders have seen faster growth with larger fluctuations.**
-  
-It can be observed that casual riders have experienced a cumulative growth of **208.29%**, reflecting significant growth over time. In contrast, members achieved a cumulative growth of **76.59%**, which shows a slower growth trajectory.
-  
 * Casual riders exhibited much more volatility in comparison to members when it came to **month-to-month growth**
   
 There is larger volatility in the growth rate, as seen with very high growth in February 2024 **(+93.69%)** and severe negative growth in October 2024 **(-37.08%)**. These extremes indicate that casual riders are more sensitive to certain factors, like weather, which can lead to larger variations in monthly ridership. In contrast, while members also saw a drop in rides during the same months (**-34.72%** in December 2023, **-30.57%** in January 2024, and **-15.24%** in October 2024), their declines were less pronounced than those of casual riders. Members saw a strong rebound in February **(+47.28%)**, which could be a reflection of improved weather that encouraged more rides. From August to October 2024, there was growth but slower and then we saw a decline again in October of **-15.24%**. This could further point to seasonal factors that impact membership growth and ridership. 
 
 ![Month-to-Month Growth Analysis](GrowthRate.png)
-![Cumulative Growth](Month-to-MonthCumulativeGrowth.png)
 
 ### Temporal Usage Analysis:
 
